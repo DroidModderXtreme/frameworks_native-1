@@ -240,4 +240,3 @@ private:
 }; // namespace android
 
 #endif // ANDROID_UI_REGION_H
-
